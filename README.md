@@ -1,3 +1,5 @@
+![image](https://github.com/itkek3/ParserAvitoSelenium/assets/88595775/3a09079a-4f89-41c4-bf23-a1e8208a3b07)
+
 Python, Selenium, PyQt5
 # ParserAvitoSelenium
 Это приложение для парсинга авито <br>
