@@ -1,4 +1,4 @@
-![image](https://github.com/itkek3/ParserAvitoSelenium/assets/88595775/3a09079a-4f89-41c4-bf23-a1e8208a3b07)
+![image](https://github.com/itkek3/ParserAvitoSelenium/assets/88595775/39adee2f-4f8e-41a8-8fca-183cec25739a)
 
 Python, Selenium, PyQt5
 # ParserAvitoSelenium
